@@ -61,7 +61,7 @@ public class Dijkstra
         }
     }
 
-    // uitility function to find least distance to next node
+    // utility function to find least distance to next node
     public static int leastDistance(int[] distance, int[] visited)
     {
         int leastNo = Integer.MAX_VALUE;
